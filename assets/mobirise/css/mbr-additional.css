@@ -1201,6 +1201,28 @@ section.lazy-placeholder:after {
 .cid-sXoI6NDtjA .mbr-text {
   color: #000000;
 }
+.cid-sZQS9zl30F {
+  background: #000000;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #000000, #ffffff);
+}
+.cid-sZQS9zl30F .image-block {
+  margin: auto;
+}
+.cid-sZQS9zl30F figcaption {
+  position: relative;
+}
+.cid-sZQS9zl30F figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sZQS9zl30F .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rYM04n68dK {
   padding-top: 15px;
   padding-bottom: 15px;
